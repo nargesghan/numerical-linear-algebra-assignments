@@ -1,6 +1,6 @@
 # numerical-linear-algebra-ssignments
 
-#Jacobi method
+# Jacobi method
 
 In this code, we first import the libraries we need.
 
